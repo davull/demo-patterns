@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversionOfControl", "Inversion of Control\InversionOfControl.csproj", "{C1CAAC0D-AD31-40A5-A215-514CC335DB5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "Dependency Inversion Principle\DependencyInversionPrinciple.csproj", "{DE2DED77-8992-4AEC-A752-4A86BBC40601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{C1CAAC0D-AD31-40A5-A215-514CC335DB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1CAAC0D-AD31-40A5-A215-514CC335DB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1CAAC0D-AD31-40A5-A215-514CC335DB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2DED77-8992-4AEC-A752-4A86BBC40601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2DED77-8992-4AEC-A752-4A86BBC40601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2DED77-8992-4AEC-A752-4A86BBC40601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2DED77-8992-4AEC-A752-4A86BBC40601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
