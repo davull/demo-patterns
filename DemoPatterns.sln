@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrincipl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "Dependency Injection\DependencyInjection.csproj", "{7EAA3146-FDA2-42C8-94C3-06B139D657CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "Decorator Pattern\DecoratorPattern.csproj", "{05A30325-7BAA-42BD-8EAC-4A09E5420AC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{7EAA3146-FDA2-42C8-94C3-06B139D657CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EAA3146-FDA2-42C8-94C3-06B139D657CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EAA3146-FDA2-42C8-94C3-06B139D657CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A30325-7BAA-42BD-8EAC-4A09E5420AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A30325-7BAA-42BD-8EAC-4A09E5420AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A30325-7BAA-42BD-8EAC-4A09E5420AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A30325-7BAA-42BD-8EAC-4A09E5420AC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
